@@ -12,7 +12,4 @@ I am a beginner programmer and i studying python and C#
 
 - C#
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-cra)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-cra)](https://github.com/anuraghazra/github-readme-stats)
