@@ -1,16 +1,18 @@
-### Hi there 👋
+**Hi**
 
-<!--
-**NEO-CRA/neo-cra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's my bio
 
-Here are some ideas to get you started:
+**About Me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a beginner programmer and i studying python and C#
+
+**Lauguages and tools:**
+
+- python
+
+- C#
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=neo-cra)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-cra)](https://github.com/anuraghazra/github-readme-stats)
